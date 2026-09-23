@@ -1,2 +1,21 @@
-Обычный разговор (круглый бабл) -- v_CC
-Закадровый голос (квадратные баблы) -- CC
+Обычный разговор (круглый бабл) -- v_CCWildWordsLower [R]
+Закадровый голос (квадратные баблы) -- CCWildWordsLower [R]
+Мысли -- v_CCWildWordsLower [R]
+Вскрик от страха -- S_Simpsonfont [R+tt]
+Нервный голос -- S_Simpsonfont [R]
+Возглас (Неровный бабл) -- CCTimSaleBrush [I+tt]
+
+ВНЕ БАБЛОВ
+Обычный -- CCWildWordsLower [R]
+Воскрицательный -- CCWildWordsLower [R+tt] - d_CCWallScrawler [R+tt]
+
+ЗВУКИ
+Обычные (вжух, села, спокойные шаги) -- v_HometownHeroBB [R+tt]
+Страшный звук (Типо ЗЫРК) -- el_CCEvilSchemes [R+tt]
+Звук поперхнулась "Гхаа~!!" -- CCTimSaleBrush [I+tt]
+
+Особое
+"КОНЕЦ" -- a_DomIno [R+tt] 
+Название главы -- a_DomIno [R+26пт]
+ФИО автора -- a_DomIno [R+10пт]
+comment -- TimesNewRoman [R+11пт]
